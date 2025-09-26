@@ -1,5 +1,4 @@
 def factorial(n):
-    """Function to calculate factorial of a number."""
     if n < 0:
         return "Factorial does not exist for negative numbers"
     elif n == 0 or n == 1:
